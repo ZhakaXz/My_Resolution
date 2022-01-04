@@ -2,3 +2,5 @@
 - Menguasai html, css, javascript, php, bootstrap, jquery, laravel
 - Peringkat 1 lagi
 - Menjadi frontend developer
+- Menjadi backend developer
+- Mudah-mudahan semuanya lancar di 2022
